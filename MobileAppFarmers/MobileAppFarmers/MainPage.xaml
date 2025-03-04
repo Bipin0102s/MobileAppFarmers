@@ -9,7 +9,7 @@
         <ListView ItemsSource="{Binding Crops}">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextCell Text="{Binding .}" />
+                    <TextCell Text="{Binding hi.}" />
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
